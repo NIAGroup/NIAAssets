@@ -1,0 +1,2 @@
+# NIAAssets
+Static content repo
